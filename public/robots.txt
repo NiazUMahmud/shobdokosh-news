@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /signup
+Disallow: /reset-password
+Disallow: /dashboard
+
+Sitemap: https://shobdokosh-news.netlify.app/sitemap.xml
